@@ -1,0 +1,15 @@
+{
+  "name": "code-completion-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "@types/react": "^16.7.6",
+    "@types/react-dom": "^16.0.9",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}

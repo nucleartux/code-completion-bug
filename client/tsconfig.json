@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "jsx": "react",
+    "module": "commonjs",
+    "paths": {
+      "@shared/*": ["../shared/src/*"]
+    }
+  },
+  "include": ["src", "../shared/src"]
+}

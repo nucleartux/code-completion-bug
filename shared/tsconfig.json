@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "jsx": "react"
+  },
+  "include": ["./src"]
+}
